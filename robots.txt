@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onightme.github.io/sitemap.html.gz
+Sitemap: https://onightme.github.io/app/sitemap.html.gz
+Sitemap: https://onightme.github.io/assets/sitemap.html.gz
+Sitemap: https://onightme.github.io/css/sitemap.html.gz
+Sitemap: https://onightme.github.io/data/sitemap.html.gz
+Sitemap: https://onightme.github.io/includes/sitemap.html.gz
+Sitemap: https://onightme.github.io/item/sitemap.html.gz
+Sitemap: https://onightme.github.io/src/sitemap.html.gz
